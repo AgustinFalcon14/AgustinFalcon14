@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Computer Science student, currently halfway through my degree. I am expanding my knowledge in programming, databases, and systems, and I am looking for my first professional opportunity in IT to apply what I've learned to real-world projects. I love to learn and build something new, productive, innovative and creative.
+I am a Computer Science student, currently halfway through my degree. I am expanding my knowledge in programming, databases, and systems, and I am looking for my first professional opportunity in IT to apply what I've learned to real world projects. I love to learn and build something new, productive, innovative and creative.
 
 - 🎓 Currently studying: Programming, Databases, Operating Systems, Computer Networks, Computer Architecture, Theory of Computation.
 - 💻 Academic background in C, C++, Java, and SQL.
